@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of cây thông noel",
+  "description": "A high-end 3D interactive Christmas experience controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
